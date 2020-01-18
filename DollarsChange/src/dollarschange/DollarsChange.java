@@ -37,7 +37,7 @@ public class DollarsChange {
         System.out.println("Od kovanica cetvrt dolara:  " + brojCetvrtDolara + "cetvrt dolara" );
         System.out.println("Od kovanica dimes:  " + brojDimea + " dimes");
         System.out.println("Od kovanica nikles:  " + brojNikles + " nikles");
-        System.out.println("Od kovanica penija: " + brojPenija ) + "penija'";
+        System.out.println("Od kovanica penija: " + brojPenija  + "penija");
         
    
 
